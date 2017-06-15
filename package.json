@@ -1,0 +1,28 @@
+{
+  "name": "wolkenkit-box-node",
+  "version": "0.0.0",
+  "description": "wolkenkit-box-node is the base image for the other wolkenkit images.",
+  "contributors": [
+    {
+      "name": "Golo Roden",
+      "email": "golo.roden@thenativeweb.io"
+    },
+    {
+      "name": "Matthias Wagler",
+      "email": "matthias.wagler@thenativeweb.io"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "roboter": "0.15.2",
+    "roboter-server": "0.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thenativeweb/wolkenkit-box-node.git"
+  },
+  "keywords": [
+    "wolkenkit"
+  ],
+  "license": "AGPL-3.0"
+}

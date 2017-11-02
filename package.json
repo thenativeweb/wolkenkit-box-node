@@ -14,8 +14,8 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "roboter": "0.15.2",
-    "roboter-server": "0.15.2"
+    "roboter": "0.15.4",
+    "roboter-server": "0.15.4"
   },
   "repository": {
     "type": "git",

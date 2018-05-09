@@ -21,7 +21,7 @@
     "roboter": "1.0.3"
   },
   "scripts": {
-    "build": "docker build -t thenativeweb/wolkenkit-node ."
+    "build": "docker build -t thenativeweb/wolkenkit-box-node ."
   },
   "repository": {
     "type": "git",

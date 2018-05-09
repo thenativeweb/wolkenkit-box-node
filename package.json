@@ -10,12 +10,18 @@
     {
       "name": "Matthias Wagler",
       "email": "matthias.wagler@thenativeweb.io"
+    },
+    {
+      "name": "Michael Scherer",
+      "email": "mail@michael-scherer.net"
     }
   ],
   "dependencies": {},
   "devDependencies": {
-    "roboter": "0.15.4",
-    "roboter-server": "0.15.4"
+    "roboter": "1.0.3"
+  },
+  "scripts": {
+    "build": "docker build -t thenativeweb/wolkenkit-node ."
   },
   "repository": {
     "type": "git",

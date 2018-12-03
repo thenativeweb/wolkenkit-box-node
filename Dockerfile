@@ -1,4 +1,4 @@
-FROM node:8.11.3-alpine
+FROM node:10.13.0-alpine
 MAINTAINER the native web <hello@thenativeweb.io>
 
 ADD ./keys /keys/
